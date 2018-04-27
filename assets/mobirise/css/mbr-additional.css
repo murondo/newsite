@@ -2252,13 +2252,13 @@ body {
 .cid-qQnennqEeG {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/contact-bg-1000x611.jpg");
 }
 .cid-qQnennqEeG .title {
   margin-bottom: 2rem;
 }
 .cid-qQnennqEeG .mbr-section-subtitle {
-  color: #767676;
+  color: #b2ccd2;
 }
 .cid-qQnennqEeG a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2275,6 +2275,9 @@ body {
 .cid-qQnennqEeG .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qQnennqEeG B {
+  color: #55b4d4;
 }
 .cid-qQneiOBBd7 {
   padding-top: 90px;
