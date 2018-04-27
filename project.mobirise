@@ -17,7 +17,7 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Fugaz One",
-        "display1Size": "12",
+        "display1Size": "8",
         "display2Font": "Nanum Gothic",
         "display2Size": 3,
         "display5Font": "Nanum Gothic",
@@ -749,7 +749,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -765,7 +765,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/3-1800x1068.jpg"
               }
             ]
           }
