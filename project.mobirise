@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "FastGrid",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 34,
@@ -33,7 +33,11 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -1144,7 +1148,7 @@
               "text-align": "center"
             },
             "B": {
-              "color": "#55b4d4"
+              "color": "#f7ed4a"
             }
           },
           "_name": "form1",
