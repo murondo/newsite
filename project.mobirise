@@ -3,7 +3,7 @@
     "name": "FastGrid",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 78,
+    "uniqCompNum": 89,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Home에 오신것을 환영합니다.",
+        "meta_descr": "Chart, UX, UI, 소프트웨어 기술지원, 서버구축,데쉬보드, 그리드 시스템,HTML5,CSS3,AJAX,JQuery,차트 소프트웨어 제공등을 함께 하고 있습니다.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -836,7 +836,7 @@
                 "title": "Services",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "서버구축, 대용량 DB구축, 시스템개발, 웹개발\n<br>대용량백업, 파일 백업 시스템및 OS 에러 이슈등 기술지원 서비스\n<br>IOT와 서버를 통한 빅데이터 정보 연결등 다양한 기술을 지원하고 있습니다.\n<br>",
+                "text": "서버구축, 대용량 DB구축, 시스템개발, 웹개발\n<br>대용량백업, 파일 백업 시스템및 OS및 소프트웨어 에러 이슈등 기술지원 서비스\n<br>IOT와 서버를 통한 빅데이터 정보 연결등 다양한 기술을 지원하고 있습니다.\n<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#features8-18\" data-toolbar=\"-mbrBtnMove\">문의및 상담하기</a> ",
                 "overlayOpacity": "0.6"
               },
