@@ -854,7 +854,7 @@
                 "title": "For You",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "IOT개발과 웹|모바일|그리드|차트|데쉬보드|서버|솔루션 개발\n<br>Fast Solution으로 귀사의 성공을 이끌어 가세요.&nbsp;<br>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#features18-t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a> ",
                 "overlayOpacity": "0.6"
               }
