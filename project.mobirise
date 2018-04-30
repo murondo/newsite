@@ -782,7 +782,7 @@
                 "title": "FastBoard",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "FastBoard는 관리자용 데쉬보드 시스템입니다.각종 통계와 더불어 실시간 현황을 차트로 나타내어줌으로서<br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "FastBoard는 미려한 화면 UI와 각종 통계 그리고 실시간 현황을 차트로 나타내어줌으로서<br>통계의 직관성과 관리의 효율성을 증대시켜주는 솔루션입니다...",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">데모보기</a>",
                 "overlayOpacity": "0.6"
               },
