@@ -10,7 +10,7 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#0f7699",
-        "secondaryColor": "#ff7f9f",
+        "secondaryColor": "#cc2952",
         "successColor": "#F7ED4A",
         "infoColor": "#ff7f9f",
         "warningColor": "#879A9F",
@@ -836,8 +836,8 @@
                 "title": "Services",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#features8-18\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "text": "서버구축, 대용량 DB구축, 시스템개발, 웹개발\n<br>대용량백업, 파일 백업 시스템및 OS 에러 이슈등 기술지원 서비스\n<br>IOT와 서버를 통한 빅데이터 정보 연결등 다양한 기술을 지원하고 있습니다.\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#features8-18\" data-toolbar=\"-mbrBtnMove\">문의및 상담하기</a> ",
                 "overlayOpacity": "0.6"
               },
               {
