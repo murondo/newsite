@@ -726,8 +726,8 @@
                 "title": "For You",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a> ",
+                "text": "<p>IOT개발|웹|모바일|차트|데쉬보드|그리드|서버|솔루션 개발\n<br>Fast Solution으로 귀사의 성공을 이끌어 가세요.</p>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#features18-t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
